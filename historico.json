@@ -141,5 +141,13 @@
         "areaPeca": 1,
         "numPecas": 10,
         "numSacosArgamassa": 3
+    },
+    {
+        "nomeCliente": "paco",
+        "comodo": "sala",
+        "areaAmbiente": 50,
+        "areaPeca": 0.5625,
+        "numPecas": 89,
+        "numSacosArgamassa": 12
     }
 ]
